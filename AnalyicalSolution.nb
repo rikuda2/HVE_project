@@ -1,0 +1,53 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1228,         43]
+NotebookOptionsPosition[       935,         30]
+NotebookOutlinePosition[      1278,         45]
+CellTagsIndexPosition[      1235,         42]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{"(*", 
+  RowBox[{
+  "In", " ", "This", " ", "Mathematica", " ", "Script", " ", "we", " ", 
+   "will", " ", "attempt", " ", "to", " ", "obtain", " ", "the", " ", 
+   "analytical", " ", "solution"}], " ", "*)"}]], "Input",
+ CellChangeTimes->{{3.8129954359905443`*^9, 
+  3.8129954579731646`*^9}},ExpressionUUID->"4fea0946-b105-4a81-9186-\
+1c244b3d5b8e"]
+},
+WindowSize->{759, 833},
+WindowMargins->{{Automatic, 572}, {64, Automatic}},
+FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 373, 8, 28, "Input",ExpressionUUID->"4fea0946-b105-4a81-9186-1c244b3d5b8e"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
